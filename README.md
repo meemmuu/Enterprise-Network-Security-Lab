@@ -107,6 +107,12 @@ Device credentials appear in the configuration files. They are for this Packet T
 
 ## Services
 - **DHCP:** HQ VLANs use the server at 10.10.10.6 through `ip helper-address`; branch VLANs use pools on the distribution switches
+
+## What's inside
+Everything is packed in `Project-main.zip`. Download it to get:
+- `Project.pkt`: the Packet Tracer file
+- `configuration.pdf`: device configurations
+- `Report.docx`: full report (planning, cabling, budget, schedule)
 - **VTP (version 2):** domain `Nass.com`. HQ-DSW1 and BR-DSW1 are the servers and the other switches at each site are clients. Core switches do not take part
 - **Wireless:**
   - HQ: a wireless LAN controller (192.168.40.100) manages lightweight APs, with SSIDs and VLAN mapping configured on the controller
