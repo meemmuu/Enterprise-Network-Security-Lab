@@ -1,8 +1,4 @@
 # Enterprise-Network-Security-Lab
-# Secure HQ and Branch Network Lab
-
-A headquarters site and a branch site connected through three routers, built in Cisco Packet Tracer as the final project of the Networks and Cybersecurity track (2025-2026). The lab covers routing, redundancy, VLAN design and layer 2 security, and every device is configured and documented.
-
 ## Contents
 | File | Description |
 | --- | --- |
